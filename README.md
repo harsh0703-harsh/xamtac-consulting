@@ -33,6 +33,7 @@ npm install
 
 1.  Create a .env file in the root directory of the project and add the following line to it:
     MONGO_URI=mongodb+srv://harsharora0703:4Z0zReEfz0Y6EfpE@mirrar.ddkshed.mongodb.net/
+    JWT_SECRET_KEY = SDJFKCNASJ34235DASKV
     Make sure to replace MONGO_URI with your actual MongoDB connection string. This .env file will allow the project to connect to your MongoDB database.
 
 2. Run the tests (optional):
