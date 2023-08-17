@@ -36,6 +36,3 @@ npm install
     JWT_SECRET_KEY = SDJFKCNASJ34235DASKV
     Make sure to replace MONGO_URI with your actual MongoDB connection string. This .env file will allow the project to connect to your MongoDB database.
 
-2. Run the tests (optional):
-    npm run test
-
